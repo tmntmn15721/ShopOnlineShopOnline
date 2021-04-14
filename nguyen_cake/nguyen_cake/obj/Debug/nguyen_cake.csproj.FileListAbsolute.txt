@@ -101,8 +101,12 @@ C:\Users\nguye\OneDrive\Máy tính\shopcake\nguyen_cake\nguyen_cake\bin\Microsof
 C:\Users\nguye\OneDrive\Máy tính\shopcake\nguyen_cake\nguyen_cake\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\nguye\OneDrive\Máy tính\shopcake\nguyen_cake\nguyen_cake\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\nguye\OneDrive\Máy tính\shopcake\nguyen_cake\nguyen_cake\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\nguye\OneDrive\Máy tính\shopcake\nguyen_cake\nguyen_cake\obj\Debug\nguyen_cake.csprojAssemblyReference.cache
 C:\Users\nguye\OneDrive\Máy tính\shopcake\nguyen_cake\nguyen_cake\obj\Debug\nguyen_cake.csproj.CoreCompileInputs.cache
 C:\Users\nguye\OneDrive\Máy tính\shopcake\nguyen_cake\nguyen_cake\obj\Debug\nguyen_cake.csproj.CopyComplete
 C:\Users\nguye\OneDrive\Máy tính\shopcake\nguyen_cake\nguyen_cake\obj\Debug\nguyen_cake.dll
 C:\Users\nguye\OneDrive\Máy tính\shopcake\nguyen_cake\nguyen_cake\obj\Debug\nguyen_cake.pdb
+C:\Users\nguye\OneDrive\Máy tính\shopcake\nguyen_cake\nguyen_cake\obj\Debug\nguyen_cake.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\shopcake\nguyen_cake\nguyen_cake\bin\PagedList.dll
+C:\Users\nguye\OneDrive\Máy tính\shopcake\nguyen_cake\nguyen_cake\bin\PagedList.Mvc.dll
+C:\Users\nguye\OneDrive\Máy tính\shopcake\nguyen_cake\nguyen_cake\bin\PagedList.xml
+C:\Users\nguye\OneDrive\Máy tính\shopcake\nguyen_cake\nguyen_cake\bin\PagedList.Mvc.xml
